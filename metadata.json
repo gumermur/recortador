@@ -1,0 +1,5 @@
+{
+  "name": "Image Region Selector",
+  "description": "An application that allows users to upload an image and draw a selection box to get its precise coordinates.",
+  "requestFramePermissions": []
+}
